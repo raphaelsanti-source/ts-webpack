@@ -1,4 +1,5 @@
 /node_modules
 /dist
 /public
-/src/assets
+/src/assets/*
+.DS_store
