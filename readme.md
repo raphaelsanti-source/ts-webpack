@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-# hey balz
-=======
-# hey balz
->>>>>>> aec2d3f8c877cc606b5640b7f45238f835b23684
+# Typescript + Webpack template
+Including stuff like:
+- image imports,
+- audio imports,
+- css imports,
+- webpack cli and dev server with live reload.
